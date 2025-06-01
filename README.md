@@ -1,19 +1,19 @@
 Результат виконання коду:
 
-  Size: 100
-  Insertion Sort: 0.00010 seconds
-  Merge Sort: 0.00007 seconds
-  Timsort: 0.00001 seconds
+    Size: 100
+    Insertion Sort: 0.00010 seconds
+    Merge Sort: 0.00007 seconds
+    Timsort: 0.00001 seconds
   
-  Size: 10000
-  Insertion Sort: 1.12079 seconds
-  Merge Sort: 0.01181 seconds
-  Timsort: 0.00085 seconds
+    Size: 10000
+    Insertion Sort: 1.12079 seconds
+    Merge Sort: 0.01181 seconds
+    Timsort: 0.00085 seconds
   
-  Size: 50000
-  Insertion Sort: 28.79178 seconds
-  Merge Sort: 0.07122 seconds
-  Timsort: 0.00500 seconds
+    Size: 50000
+    Insertion Sort: 28.79178 seconds
+    Merge Sort: 0.07122 seconds
+    Timsort: 0.00500 seconds
 
 Висновок:
 
